@@ -1,0 +1,14 @@
+C:\Users\User\Documents\LabOOP\trycatch\bin\Debug\net7.0\trycatch.exe
+C:\Users\User\Documents\LabOOP\trycatch\bin\Debug\net7.0\trycatch.deps.json
+C:\Users\User\Documents\LabOOP\trycatch\bin\Debug\net7.0\trycatch.runtimeconfig.json
+C:\Users\User\Documents\LabOOP\trycatch\bin\Debug\net7.0\trycatch.dll
+C:\Users\User\Documents\LabOOP\trycatch\bin\Debug\net7.0\trycatch.pdb
+C:\Users\User\Documents\LabOOP\trycatch\obj\Debug\net7.0\trycatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\LabOOP\trycatch\obj\Debug\net7.0\trycatch.AssemblyInfoInputs.cache
+C:\Users\User\Documents\LabOOP\trycatch\obj\Debug\net7.0\trycatch.AssemblyInfo.cs
+C:\Users\User\Documents\LabOOP\trycatch\obj\Debug\net7.0\trycatch.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\LabOOP\trycatch\obj\Debug\net7.0\trycatch.dll
+C:\Users\User\Documents\LabOOP\trycatch\obj\Debug\net7.0\refint\trycatch.dll
+C:\Users\User\Documents\LabOOP\trycatch\obj\Debug\net7.0\trycatch.pdb
+C:\Users\User\Documents\LabOOP\trycatch\obj\Debug\net7.0\trycatch.genruntimeconfig.cache
+C:\Users\User\Documents\LabOOP\trycatch\obj\Debug\net7.0\ref\trycatch.dll
